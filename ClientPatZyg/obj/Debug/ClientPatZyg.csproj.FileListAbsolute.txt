@@ -1,0 +1,7 @@
+c:\users\linus\source\repos\Repository\ClientPatZyg\bin\Debug\ClientPatZyg.exe.config
+c:\users\linus\source\repos\Repository\ClientPatZyg\bin\Debug\ClientPatZyg.exe
+c:\users\linus\source\repos\Repository\ClientPatZyg\bin\Debug\ClientPatZyg.pdb
+c:\users\linus\source\repos\Repository\ClientPatZyg\obj\Debug\ClientPatZyg.csprojResolveAssemblyReference.cache
+c:\users\linus\source\repos\Repository\ClientPatZyg\obj\Debug\ClientPatZyg.csproj.CoreCompileInputs.cache
+c:\users\linus\source\repos\Repository\ClientPatZyg\obj\Debug\ClientPatZyg.exe
+c:\users\linus\source\repos\Repository\ClientPatZyg\obj\Debug\ClientPatZyg.pdb

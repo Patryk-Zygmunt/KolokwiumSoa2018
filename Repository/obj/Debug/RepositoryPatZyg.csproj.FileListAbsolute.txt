@@ -1,0 +1,10 @@
+c:\users\linus\source\repos\Repository\Repository\bin\Debug\Repository.dll
+c:\users\linus\source\repos\Repository\Repository\bin\Debug\Repository.pdb
+c:\users\linus\source\repos\Repository\Repository\bin\Debug\LiteDB.dll
+c:\users\linus\source\repos\Repository\Repository\bin\Debug\ModelPatZyg.dll
+c:\users\linus\source\repos\Repository\Repository\bin\Debug\ModelPatZyg.pdb
+c:\users\linus\source\repos\Repository\Repository\bin\Debug\LiteDB.xml
+c:\users\linus\source\repos\Repository\Repository\obj\Debug\RepositoryPatZyg.csprojResolveAssemblyReference.cache
+c:\users\linus\source\repos\Repository\Repository\obj\Debug\RepositoryPatZyg.csproj.CoreCompileInputs.cache
+c:\users\linus\source\repos\Repository\Repository\obj\Debug\Repository.dll
+c:\users\linus\source\repos\Repository\Repository\obj\Debug\Repository.pdb

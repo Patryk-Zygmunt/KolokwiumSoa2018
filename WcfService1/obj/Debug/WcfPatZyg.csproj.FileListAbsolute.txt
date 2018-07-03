@@ -1,0 +1,13 @@
+c:\users\linus\source\repos\Repository\WcfService1\bin\WcfService1.dll.config
+c:\users\linus\source\repos\Repository\WcfService1\bin\WcfService1.dll
+c:\users\linus\source\repos\Repository\WcfService1\bin\WcfService1.pdb
+c:\users\linus\source\repos\Repository\WcfService1\bin\ModelPatZyg.dll
+c:\users\linus\source\repos\Repository\WcfService1\bin\Repository.dll
+c:\users\linus\source\repos\Repository\WcfService1\bin\LiteDB.dll
+c:\users\linus\source\repos\Repository\WcfService1\bin\ModelPatZyg.pdb
+c:\users\linus\source\repos\Repository\WcfService1\bin\Repository.pdb
+c:\users\linus\source\repos\Repository\WcfService1\bin\LiteDB.xml
+c:\users\linus\source\repos\Repository\WcfService1\obj\Debug\WcfPatZyg.csprojResolveAssemblyReference.cache
+c:\users\linus\source\repos\Repository\WcfService1\obj\Debug\WcfPatZyg.csproj.CoreCompileInputs.cache
+c:\users\linus\source\repos\Repository\WcfService1\obj\Debug\WcfService1.dll
+c:\users\linus\source\repos\Repository\WcfService1\obj\Debug\WcfService1.pdb

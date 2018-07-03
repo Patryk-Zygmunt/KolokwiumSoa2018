@@ -1,0 +1,5 @@
+c:\users\linus\source\repos\Repository\ModelPatZyg\bin\Debug\ModelPatZyg.dll
+c:\users\linus\source\repos\Repository\ModelPatZyg\bin\Debug\ModelPatZyg.pdb
+c:\users\linus\source\repos\Repository\ModelPatZyg\obj\Debug\ModelPatZyg.csproj.CoreCompileInputs.cache
+c:\users\linus\source\repos\Repository\ModelPatZyg\obj\Debug\ModelPatZyg.dll
+c:\users\linus\source\repos\Repository\ModelPatZyg\obj\Debug\ModelPatZyg.pdb
